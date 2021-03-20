@@ -1,2 +1,2 @@
-# road-of-ACM
-description of my experience of DL
+# road-of-DL
+description of my study and practice of DL
